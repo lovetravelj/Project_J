@@ -95,6 +95,12 @@ uvicorn api_app:app --reload
 
 브라우저에서 자동으로 `http://localhost:8501`이 열립니다.
 
+
+##  실행화면 캡쳐
+![alt text](Project_J-화면캡쳐.png)
+
+
+
 ## 📖 사용 방법
 
 1. **영수증 입력**: 왼쪽 입력창에 영수증 내용을 입력하거나 붙여넣기
